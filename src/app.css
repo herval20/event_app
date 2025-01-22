@@ -1,0 +1,73 @@
+.box {
+	border: 1px solid rgb(240, 128, 212);
+	background-color: rgb(255, 252, 254);
+	border-radius: 20px;
+	padding: 1rem;
+	margin: 1rem 0;
+}
+
+button {
+	text-align: center;
+	font-size: 20px;
+	color: beige;
+	background-color: rgb(243, 208, 227);
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	border: white;
+}
+
+a,
+p {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-decoration: none;
+	font-size: 30px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 55px;
+	color: white;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-shadow:
+		0 0 10px rgba(255, 105, 180, 1),
+		0 0 20px rgba(255, 105, 180, 1),
+		0 0 30px rgba(255, 105, 180, 1),
+		0 0 40px rgba(255, 105, 180, 1);
+}
+
+label {
+	color: rgb(253, 97, 170);
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-weight: 50;
+	text-align: center;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px;
+}
+
+div {
+	background-color: rgb(255, 243, 246);
+}
+
+body {
+	background-color: rgb(245, 196, 196);
+}
+
+a {
+	color: rgb(253, 97, 170);
+	margin-right: 30px;
+
+	padding: 2px;
+}
+p {
+	color: rgb(253, 97, 170);
+	text-align: center;
+}
+
